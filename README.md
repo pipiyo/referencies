@@ -13,3 +13,5 @@ https://www.npmjs.com/package/react-pokemon-gif
 https://www.npmjs.com/package/pokemon-picker
 
 alo alo alo alo
+
+http://es.slideshare.net/denisizmaylov/isomorphic-react-applications-performance-and-scalability
